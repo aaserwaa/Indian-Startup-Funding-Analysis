@@ -1,6 +1,4 @@
-I apologize for the inconvenience. Here is the entire content in a format that you can easily copy and paste into your README file:
 
-```markdown
 # Exploring the Indian Startup Ecosystem: Data Analysis and Strategic Insights
 
 ## Overview
@@ -49,4 +47,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Special thanks to Azubi Africa for providing the startup funding dataset.
 ```
 
-You can copy the entire block above and paste it into your README file. If you encounter any issues or need further assistance, please let me know.
